@@ -23,3 +23,6 @@ The model is a Convolutional Neural Network (CNN) built using TensorFlow. It con
 The model was trained for 30 epochs and evaluated on a test dataset. It achieved a reasonable accuracy for the classification task.
 
 
+![screenshot](./screenshot/animal-prediction.PNG)
+
+
